@@ -4,7 +4,7 @@
 
 **Linguagens Mais Usadas**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sychr12&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sychr12&theme=radical)
 
 ---
 
