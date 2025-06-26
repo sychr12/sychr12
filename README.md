@@ -27,6 +27,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
+![Pygame](https://img.shields.io/badge/-Pygame-FF7F00?logo=python&logoColor=white)
 
 ---
 
