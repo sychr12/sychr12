@@ -20,6 +20,6 @@
 
 ### Sobre Mim
 
-Sua descrição pessoal aqui. Fale sobre seus interesses, objetivos e experiências.
+
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](seu-link-linkedin)
