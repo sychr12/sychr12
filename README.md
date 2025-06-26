@@ -4,7 +4,7 @@
 
 **Linguagens Mais Usadas**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sychr12&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sychr12&hide=html,css,scss&theme=gruvbox)
 
 ---
 
