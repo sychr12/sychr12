@@ -1,6 +1,6 @@
 # Luiz Felipe da Silva e Silva
 
-## | Cursando Engenharia de Software | Full-Stack Developer | Python |
+## | Cursando Engenharia de Software | Full-Stack Developer | JAVA |
 
 **Linguagens Mais Usadas**
 
