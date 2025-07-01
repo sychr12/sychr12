@@ -6,7 +6,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sychr12&layout=default&theme=onedark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sychr12&layout=donut-vertical&theme=onedark)
+
 
 
 ---
