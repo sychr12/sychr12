@@ -63,7 +63,7 @@
 ### Sobre Mim
 
 <div align="left">
-  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white"  />
+  <img src="https://raw.githubusercontent.com/sychr12/sychr12/output/github-contribution-grid-snake.svg" />
 
 ###
 
