@@ -74,7 +74,7 @@
 
 
 ### Sobre Mim
-
+[![Jogo](https://github.com/trinib/trinib/blob/main/game/game.gif)](https://github.com/trinib/trinib)
 
 
 ### Sobre Mim
