@@ -1,4 +1,6 @@
 [![Terminal Animado](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ffffff&width=435&lines=Olá+Mundo!;Bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
+## 
+
 # Luiz Felipe da Silva e Silva
 
 ## | Cursando Engenharia de Software | Full-Stack Developer | JAVA |
@@ -59,15 +61,12 @@
   <img width="5" />
   <img src="https://img.shields.io/badge/-Pygame-FF7F00?logo=python&logoColor=white"  />
   <img width="5" />
+
  
-</div>
-
-### Sobre Mim
-
-
 
 ### 🎵 Música que estou curtindo no momento:
 [![Ouça no Spotify](https://img.shields.io/badge/Spotify-Listen-green?logo=spotify&style=for-the-badge)](https://open.spotify.com/track/0llzgiUXaGeoI4uN0rl8sn?si=kKxVRVgsREW7n4Hq3kjM3Q)
+## 
 
 
 
@@ -75,14 +74,15 @@
 
 ### Sobre Mim
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](seu-link-linkedin)
-
+## 
 
 
 
 ###
 <img src="https://raw.githubusercontent.com/sychr12/sychr12/output/snake.svg" alt="Snake animation" />
+## 
 
 
 
-###
+
 
