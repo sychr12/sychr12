@@ -78,7 +78,8 @@
 
 ### Sobre Mim
 
-<img src="https://github-readme-stats.vercel.app/api?username=sychr12&show_icons=true&theme=radical" />
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=sychr12&theme=dracula)](https://wakatime.com)
+
 
 
 
