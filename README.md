@@ -62,7 +62,12 @@
 
 ### Sobre Mim
 
-[![Now Playing](https://open.spotify.com/track/0llzgiUXaGeoI4uN0rl8sn?si=kKxVRVgsREW7n4Hq3kjM3Q)](https://www.youtube.com/watch?v=dQw4w9WgXcQ "Clique para ouvir")
+
+
+### 🎵 Música que estou curtindo no momento:
+
+[![Now Playing](https://i.scdn.co/image/ab67616d0000b273a0bde8e95bb772777c25c74e)](https://open.spotify.com/track/0llzgiUXaGeoI4uN0rl8sn?si=kKxVRVgsREW7n4Hq3kjM3Q "Clique para ouvir no Spotify")
+
 
 
 
