@@ -73,6 +73,11 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/sychr12/sychr12/output/snake.svg" alt="Snake animation" />
+### Sobre Mim
+
+<div align="left">
+ <img src="https://raw.githubusercontent.com/sychr12/sychr12/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
 
 ###
