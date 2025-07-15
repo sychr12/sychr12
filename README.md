@@ -1,3 +1,4 @@
+[![Terminal Animado](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFF&width=435&lines=Olá+Mundo!;Bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 # Luiz Felipe da Silva e Silva
 
 ## | Cursando Engenharia de Software | Full-Stack Developer | JAVA |
@@ -77,7 +78,7 @@
 
 
 ### Sobre Mim
-[![Terminal Animado](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F71A&width=435&lines=Olá+Mundo!;Bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
+
 </div>
 
 
