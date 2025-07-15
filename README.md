@@ -78,11 +78,10 @@
 
 ### Sobre Mim
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/sychr12/sychr12/output/snake.svg?palette=fire" alt="Snake Fire animation" />
-</div>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=sychr12&theme=dracula&area=true&hide_border=true" />
+</a>
 
-<img src="https://i.gifer.com/7VE.gif" width="300" alt="Matrix code" />
 
 
 
