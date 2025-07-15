@@ -78,9 +78,8 @@
 
 ### Sobre Mim
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sychr12&theme=dracula&area=true&hide_border=true" />
-</a>
+[![trophy](https://github-profile-trophy.vercel.app/?username=sychr12&theme=dracula&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 
