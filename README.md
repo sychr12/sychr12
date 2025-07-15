@@ -77,7 +77,7 @@
 
 
 ### Sobre Mim
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?sychr12=sychr12&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Contribuições 3D](https://github-readme-3d-profile.vercel.app/profile?sychr12=sychr12&theme=dark)](https://github.com/Readme-Workflows/repo-3d))
 </div>
 
 
