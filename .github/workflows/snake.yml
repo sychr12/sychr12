@@ -1,31 +1,31 @@
-name: Generate snake animation
+name: Generate Snake Animation
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-
-  workflow_dispatch:
-
+  schedule: # executa a cada 12 horas
+    - cron: "0 */12 * * *"  # CORRIGIDO: cron precisa de número fixo no primeiro campo
+  workflow_dispatch:        # permite executar manualmente
   push:
     branches:
-    - main
+      - main                # roda quando houver push na branch main
 
 jobs:
   generate:
     permissions:
-      contents: write
+      contents: write       # necessário para publicar no branch
     runs-on: ubuntu-latest
     timeout-minutes: 5
 
     steps:
-      - name: generate snake.svg
+      - name: Checkout do repositório
+        uses: actions/checkout@v3
+
+      - name: Gerar o snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake.svg?palette=github-dark
 
-
-      - name: push snake.svg to the output branch
+      - name: Publicar no branch output
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
