@@ -77,7 +77,7 @@
 
 
 ### Sobre Mim
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?sychr12=sychr12&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
