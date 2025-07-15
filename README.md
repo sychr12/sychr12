@@ -74,7 +74,7 @@
 ### Sobre Mim
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/sychr12/sychr12/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/sychr12/sychr12/output/snake.svg?palette=fire" alt="Snake Fire animation" />
 </div>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sychr12&theme=dark)
