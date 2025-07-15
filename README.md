@@ -62,6 +62,9 @@
 
 ### Sobre Mim
 
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/3n3Ppam7vgaVa1iaRUc9Lp)
+
+
 <div align="left">
  <img src="https://raw.githubusercontent.com/sychr12/sychr12/output/github-contribution-grid-snake.svg" />
 
