@@ -33,6 +33,7 @@
   <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white"  />
   <img width="10" />
   <img src="https://img.shields.io/badge/Backend-Java-007396?logo=openjdk&logoColor=white"  />
+  <img width="10" />
 
   <img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black"  />
   <img width="10" />
@@ -47,6 +48,7 @@
   <img src="https://img.shields.io/badge/-Android_Studio-3DDC84?logo=androidstudio&logoColor=white"  />
   <img width="10" />
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white"  />
+  <img width="10" />
 
 
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white"  />
