@@ -27,6 +27,29 @@
   <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Backend-Java-007396?logo=openjdk&logoColor=white"  />
+
+  <img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/-C++-00599C?logo=c++&logoColor=white"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/-Android_Studio-3DDC84?logo=androidstudio&logoColor=white"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white"  />
+
+
+  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/-Pygame-FF7F00?logo=python&logoColor=white"  />
+  <img width="12" />
+ 
 </div>
 
 ###
