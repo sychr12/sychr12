@@ -65,9 +65,8 @@
 
 
 ### 🎵 Música que estou curtindo no momento:
-<a href="https://open.spotify.com/track/0llzgiUXaGeoI4uN0rl8sn?si=kKxVRVgsREW7n4Hq3kjM3Q" target="_blank" rel="noopener noreferrer" title="Clique para ouvir no Spotify">
-  <img src="https://i.scdn.co/image/ab67616d0000b273a0bde8e95bb772777c25c74e" alt="Capa da música" width="300" />
-</a>
+[![Ouça no Spotify](https://img.shields.io/badge/Spotify-Listen-green?logo=spotify&style=for-the-badge)](https://open.spotify.com/track/0llzgiUXaGeoI4uN0rl8sn?si=kKxVRVgsREW7n4Hq3kjM3Q)
+
 
 
 
