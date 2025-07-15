@@ -50,11 +50,11 @@
 
 
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://img.shields.io/badge/-Pygame-FF7F00?logo=python&logoColor=white"  />
-  <img width="12" />
+  <img width="10" />
  
 </div>
 
