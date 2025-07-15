@@ -13,7 +13,7 @@
 
 ###
 
-<img align="right" height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fen-ZA%2Fsearch%2Fgoku-and-vegeta-gifs&psig=AOvVaw25OlWCy-3IweqxLkGEMH8d&ust=1752679827613000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKCnw8mVv44DFQAAAAAdAAAAABAE"  />
+<img align="right" height="150" src="https://media1.tenor.com/m/uc0dYMDMnAIAAAAd/goku-vegeta-dancing.gif"  />
 
 ###
 
