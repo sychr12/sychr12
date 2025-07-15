@@ -62,7 +62,8 @@
 
 ### Sobre Mim
 
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/3n3Ppam7vgaVa1iaRUc9Lp)
+[![Now Playing](https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ "Clique para ouvir")
+
 
 
 <div align="left">
