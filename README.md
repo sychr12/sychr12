@@ -77,7 +77,7 @@
 
 
 ### Sobre Mim
-[![Contribuições 3D](https://github-readme-3d-profile.vercel.app/profile?sychr12=sychr12&theme=dark)](https://github.com/Readme-Workflows/repo-3d))
+[![Contribuições 3D](https://github-readme-3d-profile.vercel.app/profile?sychr12=sychr12&theme=dark)](https://github.com/Readme-Workflows/repo-3d)
 </div>
 
 
