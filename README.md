@@ -77,7 +77,7 @@
 
 
 ### Sobre Mim
-[![Contribuições 3D](https://github-readme-3d-profile.vercel.app/profile?sychr12=sychr12&theme=dark)](https://github.com/Readme-Workflows/repo-3d)
+[![Terminal Animado](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F71A&width=435&lines=Olá+Mundo!;Bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 </div>
 
 
