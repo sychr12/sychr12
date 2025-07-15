@@ -62,7 +62,7 @@
 
 ### Sobre Mim
 
-[![Now Playing](https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ "Clique para ouvir")
+[![Now Playing](https://open.spotify.com/track/0llzgiUXaGeoI4uN0rl8sn?si=kKxVRVgsREW7n4Hq3kjM3Q)](https://www.youtube.com/watch?v=dQw4w9WgXcQ "Clique para ouvir")
 
 
 
