@@ -77,7 +77,7 @@
 
 
 ### Sobre Mim
-<img src="./images/skyline.gif" alt="Skyline Animation" />
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
