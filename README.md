@@ -79,7 +79,7 @@
 ### Sobre Mim
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=sychr12&theme=dracula&area=true&hide_border=true" />
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sychr12&theme=dracula&area=true&hide_border=true" />
 </a>
 
 
