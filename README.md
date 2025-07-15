@@ -1,4 +1,4 @@
-[![Terminal Animado](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFF&width=435&lines=Olá+Mundo!;Bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
+[![Terminal Animado](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ffffff&width=435&lines=Olá+Mundo!;Bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 # Luiz Felipe da Silva e Silva
 
 ## | Cursando Engenharia de Software | Full-Stack Developer | JAVA |
@@ -74,12 +74,13 @@
 
 
 ### Sobre Mim
-[![Jogo](https://github.com/trinib/trinib/blob/main/game/game.gif)](https://github.com/trinib/trinib)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](seu-link-linkedin)
 
 
-### Sobre Mim
 
-</div>
+
+###
+<img src="https://raw.githubusercontent.com/sychr12/sychr12/output/snake.svg" alt="Snake animation" />
 
 
 
