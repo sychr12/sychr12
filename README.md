@@ -77,20 +77,7 @@
 
 
 ### Sobre Mim
-
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=sychr12&theme=dracula)](https://wakatime.com)
-
-
-
-
-
-
-
-
-
-
-
-
+<img src="./images/skyline.gif" alt="Skyline Animation" />
 </div>
 
 
