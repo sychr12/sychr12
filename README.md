@@ -74,11 +74,18 @@
 
 ### Sobre Mim
 
+
+
+### Sobre Mim
+
 <div align="left">
   <img src="https://raw.githubusercontent.com/sychr12/sychr12/output/snake.svg?palette=fire" alt="Snake Fire animation" />
 </div>
 
-![Streak Badge](./streak.svg)
+<img src="https://i.gifer.com/7VE.gif" width="300" alt="Matrix code" />
+
+
+
 
 
 
