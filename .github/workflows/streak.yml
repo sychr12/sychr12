@@ -1,0 +1,28 @@
+name: Update Streak Badge
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # todo dia à meia-noite UTC
+  workflow_dispatch:
+
+jobs:
+  update-streak:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Generate streak badge
+        uses: DenverCoder1/github-readme-streak-stats@v1
+        with:
+          user: sychr12
+          theme: dark
+          mode: weekly  # ou daily / monthly
+
+      - name: Commit badge
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add streak.svg
+          git commit -m "Update streak badge" || echo "No changes"
+          git push
