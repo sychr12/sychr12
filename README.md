@@ -17,9 +17,7 @@
 
 ###
 
-<p align="right" style="margin-top: 10px;">
-  <img src="https://media.tenor.com/U9G5nALiYM8AAAAj/pixel.gif" alt="Pixel GIF" height="150">
-</p>
+
 
 
 
@@ -66,7 +64,12 @@
   <img src="https://img.shields.io/badge/-Pygame-FF7F00?logo=python&logoColor=white"  />
   <img width="5" />
 
+###
+<p align="right" style="margin-top: 10px;">
+  <img src="https://media.tenor.com/U9G5nALiYM8AAAAj/pixel.gif" alt="Pixel GIF" height="150">
+</p>
  
+###
 
 ### 🎵 Música que estou curtindo no momento:
 [![Ouça no Spotify](https://img.shields.io/badge/Spotify-Listen-green?logo=spotify&style=for-the-badge)](https://open.spotify.com/track/0llzgiUXaGeoI4uN0rl8sn?si=kKxVRVgsREW7n4Hq3kjM3Q)
