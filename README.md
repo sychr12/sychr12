@@ -69,9 +69,6 @@
   <img width="5" />
 
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2.4-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-
-
 
 
 
