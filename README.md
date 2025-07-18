@@ -96,7 +96,7 @@
 
 ### 👍 Perfis que eu recomendo
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/seu-usuario)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/VitorRamires468)
 
 
 
