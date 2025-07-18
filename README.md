@@ -17,7 +17,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/U9G5nALiYM8AAAAj/pixel.gif"/>
+<img align="right" top="10" height="150" src="https://media.tenor.com/U9G5nALiYM8AAAAj/pixel.gif"/>
 
 ###
 
@@ -74,7 +74,7 @@
 
 ### Sobre Mim
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](seu-link-linkedin)
-## 
+###
 
 
 
