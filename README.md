@@ -17,7 +17,7 @@
 
 ###
 
-<img align="right" height="200" src="https://media.tenor.com/U9G5nALiYM8AAAAj/pixel.gif"/>
+<img align="right" height="150" src="https://media.tenor.com/U9G5nALiYM8AAAAj/pixel.gif"/>
 
 ###
 
