@@ -96,7 +96,8 @@
 
 ### 👍 Perfis que eu recomendo
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/VitorRamires468)<p>Vitor Luan</p>
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/VitorRamires468)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/VitorRamires468)
 
 
 
