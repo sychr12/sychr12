@@ -17,7 +17,8 @@
 
 ###
 
-<img align="right" align="down" height="150" src="https://media.tenor.com/U9G5nALiYM8AAAAj/pixel.gif"/>
+<img src="https://media.tenor.com/U9G5nALiYM8AAAAj/pixel.gif" alt="Pixel GIF" height="150" style="margin-top: 30px;" align="right" />
+
 
 ###
 
