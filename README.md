@@ -24,7 +24,7 @@
 ###
 
 
-### Habilidades
+### 💪 Habilidades
 
 <div align="left">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black"  />
@@ -85,7 +85,7 @@
 
 
 
-### Sobre Mim
+###  😶 Sobre Mim
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](seu-link-linkedin)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/seu-usuario)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/seu-link)
@@ -94,7 +94,7 @@
 
 
 
-### 👥 Perfis que eu recomendo
+### 👍 Perfis que eu recomendo
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/seu-usuario)
 
