@@ -96,7 +96,7 @@
 
 ### 👍 Perfis que eu recomendo
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/VitorRamires468)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/VitorRamires468)<p>Vitor Luan</p>
 
 
 
@@ -107,7 +107,7 @@
 
 
 ###
-<img src="https://raw.githubusercontent.com/sychr12/sychr12/output/snake.svg" alt="Snake animation" /> <p>Vitor Luan</p>
+<img src="https://raw.githubusercontent.com/sychr12/sychr12/output/snake.svg" alt="Snake animation" />
 
 
 
