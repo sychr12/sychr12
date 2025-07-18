@@ -83,7 +83,7 @@
 
 ###
 <img src="https://raw.githubusercontent.com/sychr12/sychr12/output/snake.svg" alt="Snake animation" />
-###
+
 
 
 
