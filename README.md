@@ -77,7 +77,8 @@
 
 
 ### 🎵 Música que estou curtindo no momento:
-[![Ouça no Spotify](https://img.shields.io/badge/Spotify-Listen-green?logo=spotify&style=for-the-badge)](https://open.spotify.com/track/0llzgiUXaGeoI4uN0rl8sn?si=kKxVRVgsREW7n4Hq3kjM3Q)
+[![Ouça no Spotify](https://img.shields.io/badge/Spotify-Listen-green?logo=spotify&style=flat)](https://open.spotify.com/track/0llzgiUXaGeoI4uN0rl8sn?si=kKxVRVgsREW7n4Hq3kjM3Q)
+
 ## 
 
 
