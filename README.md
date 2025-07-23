@@ -65,7 +65,7 @@
   <img src="https://img.shields.io/badge/-Pygame-FF7F00?logo=python&logoColor=white"  />
   <img width="5" />
 
-<img src="https://img.shields.io/badge/-Ren'Py-FF4500?logo=godotengine&logoColor=white" />
+<img src="https://img.shields.io/badge/-Ren'Py-FF4500?style=flat" />
 <img width="5" />
 
 
