@@ -65,8 +65,10 @@
   <img src="https://img.shields.io/badge/-Pygame-FF7F00?logo=python&logoColor=white"  />
   <img width="5" />
 
-<img src="https://img.shields.io/badge/-Ren'Py-FF4500?style=flat" />
-<img width="5" />
+<img src="https://www.renpy.org/images/renpy-logo.png" alt="Ren'Py logo" style="height:20px; vertical-align:middle;" />
+<span style="background:#FF4500; color:white; padding: 3px 8px; font-weight:bold; font-family: Arial, sans-serif; border-radius:4px; margin-left:6px;">
+  Ren'Py
+</span>
 
 
 
