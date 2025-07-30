@@ -1,5 +1,4 @@
-[![Terminal Animado](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ffffff&width=500&lines=Olá+Mundo!;Bem-vindo+ao+meu+perfil!;Sou+Luiz+Felipe%2C+estudante+de+Engenharia+de+Software.;Tenho+interesse+nas+áreas+de+desenvolvimento+Front-end+e+Back-end.;Sempre+buscando+novos+desafios+e+aprendizados!)](https://git.io/typing-svg)
-
+[![Terminal Animado](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ffffff&width=500&lines=Olá!;Sou+Luiz+Felipe,+estudante+de+Engenharia+de+Software.;Interesse+em+Front-end+e+Back-end.;Buscando+desafios+e+aprendizado!)](https://git.io/typing-svg)
 
 ## 
 
