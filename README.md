@@ -7,7 +7,7 @@
 
 ## | Cursando Engenharia de Software | Full-Stack Developer | JAVA |
 
-### Sobbre Mim
+###  😶 Sobre Mim
 Oi! Me chamo Luiz Felipe da Silva, estou cursando Engenharia de Software e tenho um grande interesse nas áreas de desenvolvimento front-end e back-end.
 Estou sempre buscando aprender mais, melhorar minhas habilidades e crescer profissionalmente. Gosto de criar soluções que funcionem bem e sejam fáceis de usar. Sigo estudando e me dedicando para me tornar um desenvolvedor cada vez melhor.
 
@@ -27,9 +27,6 @@ Estou sempre buscando aprender mais, melhorar minhas habilidades e crescer profi
 <p align="right" style="margin-top: 10px;">
   <img src="https://media.tenor.com/U9G5nALiYM8AAAAj/pixel.gif" alt="Pixel GIF" height="150">
 </p>
- 
-###
-
 
 ### 💪 Habilidades
 
@@ -76,23 +73,11 @@ Estou sempre buscando aprender mais, melhorar minhas habilidades e crescer profi
   <img width="5" />
 
 
-
-
-
-
-
-
-
 ### 🎵 Música que estou curtindo no momento:
 [![Ouça no Spotify](https://img.shields.io/badge/Spotify-Listen-green?logo=spotify&style=flat)](https://open.spotify.com/track/0llzgiUXaGeoI4uN0rl8sn?si=kKxVRVgsREW7n4Hq3kjM3Q)
 
-## 
 
-
-
-
-
-###  😶 Sobre Mim
+### 💼 Conecte-se Comigo
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](seu-link-linkedin)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/seu-usuario)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/seu-link)
@@ -100,19 +85,10 @@ Estou sempre buscando aprender mais, melhorar minhas habilidades e crescer profi
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/seu-usuario)
 
 
-
 ### 👍 Perfis que eu recomendo
 
 [![GitHub](https://img.shields.io/badge/GitHub-VitorRamires-181717?logo=github&logoColor=white)](https://github.com/VitorRamires468)
 [![GitHub](https://img.shields.io/badge/GitHub-Alvesvnc-181717?logo=github&logoColor=white)](https://github.com/Alvesvnc)
-
-
-
-
-
-
-###
-
 
 
 ###
