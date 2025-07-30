@@ -27,7 +27,7 @@ Estou sempre buscando aprender mais, melhorar minhas habilidades e crescer profi
 <p align="right" style="margin-top: 10px;">
   <img src="https://media.tenor.com/U9G5nALiYM8AAAAj/pixel.gif" alt="Pixel GIF" height="150">
 </p>
-##
+
 
 ### 💪 Habilidades
 
