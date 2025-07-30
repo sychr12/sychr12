@@ -14,7 +14,7 @@ Estou sempre buscando aprender mais, melhorar minhas habilidades e crescer profi
 
 **Linguagens Mais Usadas**
 
-###
+##
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sychr12&show_icons=true&count_private=true&theme=radical&hide_border=false" height="150" />
@@ -22,7 +22,7 @@ Estou sempre buscando aprender mais, melhorar minhas habilidades e crescer profi
 </div>
 
 
-###
+##
 
 <p align="right" style="margin-top: 10px;">
   <img src="https://media.tenor.com/U9G5nALiYM8AAAAj/pixel.gif" alt="Pixel GIF" height="150">
@@ -76,6 +76,7 @@ Estou sempre buscando aprender mais, melhorar minhas habilidades e crescer profi
 ### 🎵 Música que estou curtindo no momento:
 [![Ouça no Spotify](https://img.shields.io/badge/Spotify-Listen-green?logo=spotify&style=flat)](https://open.spotify.com/track/0llzgiUXaGeoI4uN0rl8sn?si=kKxVRVgsREW7n4Hq3kjM3Q)
 
+##
 
 ### 💼 Conecte-se Comigo
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](seu-link-linkedin)
@@ -84,16 +85,17 @@ Estou sempre buscando aprender mais, melhorar minhas habilidades e crescer profi
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white)](https://youtube.com/seu-canal)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/seu-usuario)
 
+##
 
 ### 👍 Perfis que eu recomendo
 
 [![GitHub](https://img.shields.io/badge/GitHub-VitorRamires-181717?logo=github&logoColor=white)](https://github.com/VitorRamires468)
 [![GitHub](https://img.shields.io/badge/GitHub-Alvesvnc-181717?logo=github&logoColor=white)](https://github.com/Alvesvnc)
+##
 
-
-###
+##
 <img src="https://raw.githubusercontent.com/sychr12/sychr12/output/snake.svg" alt="Snake animation" />
-###
+##
 
 
 
