@@ -93,9 +93,8 @@ Estou sempre buscando aprender mais, melhorar minhas habilidades e crescer profi
 [![GitHub](https://img.shields.io/badge/GitHub-Alvesvnc-181717?logo=github&logoColor=white)](https://github.com/Alvesvnc)
 ##
 
-##
 <img src="https://raw.githubusercontent.com/sychr12/sychr12/output/snake.svg" alt="Snake animation" />
-##
+
 
 
 
