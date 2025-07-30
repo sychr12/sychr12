@@ -1,9 +1,15 @@
-[![Terminal Animado](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ffffff&width=435&lines=Olá+Mundo!;Bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
+[![Terminal Animado](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ffffff&width=500&lines=Olá+Mundo!;Bem-vindo+ao+meu+perfil!;Sou+Luiz+Felipe%2C+estudante+de+Engenharia+de+Software.;Apaixonado+por+desenvolvimento+Front-end+e+Back-end.;Sempre+buscando+novos+desafios+e+aprendizados!)](https://git.io/typing-svg)
+
 ## 
 
 # Luiz Felipe da Silva e Silva
 
 ## | Cursando Engenharia de Software | Full-Stack Developer | JAVA |
+
+### Sobbre Mim
+Oi! Me chamo Luiz Felipe da Silva, estou cursando Engenharia de Software e tenho um grande interesse nas áreas de desenvolvimento front-end e back-end.
+Estou sempre buscando aprender mais, melhorar minhas habilidades e crescer profissionalmente. Gosto de criar soluções que funcionem bem e sejam fáceis de usar. Sigo estudando e me dedicando para me tornar um desenvolvedor cada vez melhor.
+
 
 **Linguagens Mais Usadas**
 
