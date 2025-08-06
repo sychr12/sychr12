@@ -7,7 +7,7 @@
 ## | Cursando Engenharia de Software | Full-Stack Developer | JAVA |
 
 ###  😶 Sobre Mim
-Oi! Me chamo Luiz Felipe da Silva, estou cursando Engenharia de Software e tenho um grande interesse nas áreas de desenvolvimento front-end e back-end.
+Me chamo Luiz Felipe da Silva, estou cursando Engenharia de Software e tenho um grande interesse nas áreas de desenvolvimento front-end e back-end.
 Estou sempre buscando aprender mais, melhorar minhas habilidades e crescer profissionalmente. Gosto de criar soluções que funcionem bem e sejam fáceis de usar. Sigo estudando e me dedicando para me tornar um desenvolvedor cada vez melhor.
 
 ###
