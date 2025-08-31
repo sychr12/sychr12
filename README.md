@@ -25,7 +25,7 @@ Estou sempre buscando aprender mais, melhorar minhas habilidades e crescer profi
 ##
 
 <p align="right" style="margin-top: 10px;">
-  <img src="https://pa1.aminoapps.com/6721/fc3ba47c6becf1b04e4ef7b3becff293183d3716_hq.gif" alt="Pixel GIF" height="150">
+  <img src="https://pa1.aminoapps.com/7685/1e3ac4f469d59c9f3f12019986c544a349dbdcf6r1-370-355_hq.gif" alt="Pixel GIF" height="150">
 </p>
 
 
