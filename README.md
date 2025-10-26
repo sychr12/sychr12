@@ -75,8 +75,7 @@ Estou sempre buscando aprender mais, melhorar minhas habilidades e crescer profi
   <img width="5" />
 </div>
 
-
-
+##
 
 ### 🎵 Música que estou curtindo no momento:
 [![Ouça no Spotify](https://img.shields.io/badge/Spotify-Listen-green?logo=spotify&style=flat)](https://open.spotify.com/track/0llzgiUXaGeoI4uN0rl8sn?si=kKxVRVgsREW7n4Hq3kjM3Q)
