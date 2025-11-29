@@ -17,10 +17,17 @@ Estou sempre buscando aprender mais, melhorar minhas habilidades e crescer profi
 
 ##
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sychr12&show_icons=true&count_private=true&theme=radical&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sychr12&layout=compact&langs_count=5&theme=radical&hide_border=false" height="150" />
-</div>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=sychr12&show_icons=true&count_private=true&theme=radical"
+    height="150"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=sychr12&layout=compact&langs_count=5&theme=radical"
+    height="150"
+  />
+</p>
+
 
 
 ##
