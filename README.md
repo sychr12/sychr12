@@ -13,22 +13,19 @@ Estou sempre buscando aprender mais, melhorar minhas habilidades e crescer profi
 
 ###
 
-**Linguagens Mais Usadas**
-
-##
+## Linguagens Mais Usadas
 
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=sychr12&show_icons=true&count_private=true&theme=radical"
-    src="https://github-readme-stats-mu.vercel.app/api?username=sychr12&show_icons=true&count_private=true&theme=radical"
     height="150"
   />
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=sychr12&layout=compact&langs_count=5&theme=radical"
-    src="https://github-readme-stats-mu.vercel.app/api/top-langs?username=sychr12&layout=compact&langs_count=5&theme=radical"
     height="150"
   />
 </p>
+
 
 
 
