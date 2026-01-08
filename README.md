@@ -15,10 +15,14 @@ Estou sempre buscando aprender mais, melhorar minhas habilidades e crescer profi
 
 ## Linguagens Mais Usadas
 
-## Linguagens Mais Usadas
+## 📊 Estatísticas do GitHub  
 
-![Stats](https://github-readme-stats.vercel.app/api?username=sychr12&show_icons=true&theme=radical)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs?username=sychr12&layout=compact&langs_count=5&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sychr12&show_icons=true&count_private=true&theme=radical&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sychr12&layout=compact&langs_count=5&theme=radical&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sychr12&show_icons=true&count_private=true&theme=tokyonight&hide_border=false&border_radius=10" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sychr12&layout=compact&langs_count=6&theme=tokyonight&hide_border=false&border_radius=10" height="150" />
+</div>
 
 
 
