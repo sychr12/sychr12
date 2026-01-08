@@ -15,7 +15,7 @@ Estou sempre buscando aprender mais, melhorar minhas habilidades e crescer profi
 
 ## Linguagens Mais Usadas
 
-## 📊 Estatísticas do GitHub  
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sychr12&show_icons=true&count_private=true&theme=radical&hide_border=false" height="150" />
