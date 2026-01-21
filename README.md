@@ -78,6 +78,10 @@ Estou sempre buscando aprender mais, melhorar minhas habilidades e crescer profi
   <img width="5" />
 
   <img src="https://img.shields.io/badge/Spring%20Boot-3.2.4-6DB33F?style=flat&logo=springboot&logoColor=white"  />
+  <img src="https://img.shields.io/badge/Docker-26.1-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+
+
   <img width="5" />
 </div>
 
