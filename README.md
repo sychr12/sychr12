@@ -24,21 +24,21 @@ Estou em constante aprendizado, focado em evoluir tecnicamente e crescer profiss
 <table align="center">
   <tr>
     <td align="center" width="33%">
-      🚜 <br/>
+      🚜<br/>
       <b>Agrohub</b><br/>
       <sub>Aplicação Web</sub><br/><br/>
       <a href="https://github.com/sychr12/Agrohub">🔗 Repositório</a>
     </td>
 
     <td align="center" width="33%">
-      🎨 <br/>
+      🎨<br/>
       <b>Fest-test-Web</b><br/>
       <sub>Projeto Front-end</sub><br/><br/>
       <a href="https://github.com/sychr12/Fest-test-Web">🔗 Repositório</a>
     </td>
 
     <td align="center" width="33%">
-      🏢 <br/>
+      🏢<br/>
       <b>Intranet-SemBanco</b><br/>
       <sub>Sistema Web</sub><br/><br/>
       <a href="https://github.com/sychr12/Intranet-SemBanco">🔗 Repositório</a>
@@ -47,21 +47,21 @@ Estou em constante aprendizado, focado em evoluir tecnicamente e crescer profiss
 
   <tr>
     <td align="center">
-      🚗 <br/>
+      🚗<br/>
       <b>Gerenciamento de Veículo</b><br/>
       <sub>HTML / Web</sub><br/><br/>
       <a href="https://github.com/sychr12/Gerenciamento-de-Veiculo">🔗 Repositório</a>
     </td>
 
     <td align="center">
-      🐳 <br/>
+      🐳<br/>
       <b>Gerenciador Docker</b><br/>
       <sub>TypeScript</sub><br/><br/>
       <a href="https://github.com/sychr12/Gerenciador_docker">🔗 Repositório</a>
     </td>
 
     <td align="center">
-      💰 <br/>
+      💰<br/>
       <b>Gestão de Dívidas</b><br/>
       <sub>Spring Boot + React</sub><br/><br/>
       <a href="https://github.com/sychr12/gestao-dividas-Spring-boot-e-react-">🔗 Repositório</a>
@@ -70,7 +70,6 @@ Estou em constante aprendizado, focado em evoluir tecnicamente e crescer profiss
 </table>
 
 ---
-
 
 
 ##  Estatísticas do GitHub
