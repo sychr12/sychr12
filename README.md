@@ -19,11 +19,31 @@ Estou em constante aprendizado, focado em evoluir tecnicamente e crescer profiss
 
 ---
 
-## 🌐 Portfólio
+## 💼 Projetos em Destaque
 
-🚀 Confira meu portfólio com meus principais projetos, tecnologias e experiências:
+- 🔹 **Agrohub**  
+  Aplicação Web  
+  👉 https://github.com/sychr12/Agrohub
 
-👉 **https://sychr12.github.io**
+- 🔹 **Fest-test-Web**  
+  Projeto Front-end  
+  👉 https://github.com/sychr12/Fest-test-Web
+
+- 🔹 **Intranet-SemBanco**  
+  Sistema Web sem banco de dados  
+  👉 https://github.com/sychr12/Intranet-SemBanco
+
+- 🔹 **Gerenciamento de Veículo**  
+  Projeto em HTML  
+  👉 https://github.com/sychr12/Gerenciamento-de-Veiculo
+
+- 🔹 **Gerenciador Docker**  
+  Projeto com TypeScript  
+  👉 https://github.com/sychr12/Gerenciador_docker
+
+- 🔹 **Gestão de Dívidas**  
+  Spring Boot + React  
+  👉 https://github.com/sychr12/gestao-dividas-Spring-boot-e-react-
 
 ---
 
