@@ -39,51 +39,47 @@ Estou sempre buscando aprender mais, melhorar minhas habilidades e crescer profi
 ### 💪 Habilidades
 
 <div align="left">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/Backend-Java-007396?logo=openjdk&logoColor=white"  />
-  <img width="5" />
 
-  <img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/-C++-00599C?logo=c++&logoColor=white"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/-Android_Studio-3DDC84?logo=androidstudio&logoColor=white"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white"  />
-  <img width="5" />
+  <!-- Linguagens -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 
+  <br/>
 
-  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/-Pygame-FF7F00?logo=python&logoColor=white"  />
-  <img width="5" />
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 
-  <img src="https://img.shields.io/badge/Spring%20Boot-3.2.4-6DB33F?style=flat&logo=springboot&logoColor=white"  />
-  <img src="https://img.shields.io/badge/Docker-26.1-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+  <br/>
 
+  <!-- Backend / Frameworks -->
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 
-  <img width="5" />
+  <br/>
+
+  <!-- Banco de Dados -->
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+
+  <br/>
+
+  <!-- DevOps / Ferramentas -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pygame-FF7F00?style=for-the-badge&logo=python&logoColor=white" />
+
 </div>
+
 
 ##
 
