@@ -21,29 +21,42 @@ Estou em constante aprendizado, focado em evoluir tecnicamente e crescer profiss
 
 ## 💼 Projetos em Destaque
 
-- 🔹 **Agrohub**  
-  Aplicação Web  
-  👉 https://github.com/sychr12/Agrohub
-
-- 🔹 **Fest-test-Web**  
-  Projeto Front-end  
-  👉 https://github.com/sychr12/Fest-test-Web
-
-- 🔹 **Intranet-SemBanco**  
-  Sistema Web sem banco de dados  
-  👉 https://github.com/sychr12/Intranet-SemBanco
-
-- 🔹 **Gerenciamento de Veículo**  
-  Projeto em HTML  
-  👉 https://github.com/sychr12/Gerenciamento-de-Veiculo
-
-- 🔹 **Gerenciador Docker**  
-  Projeto com TypeScript  
-  👉 https://github.com/sychr12/Gerenciador_docker
-
-- 🔹 **Gestão de Dívidas**  
-  Spring Boot + React  
-  👉 https://github.com/sychr12/gestao-dividas-Spring-boot-e-react-
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <b>Agrohub</b><br/>
+      Aplicação Web<br/><br/>
+      <a href="https://github.com/sychr12/Agrohub">🔗 Ver Repositório</a>
+    </td>
+    <td align="center" width="33%">
+      <b>Fest-test-Web</b><br/>
+      Projeto Front-end<br/><br/>
+      <a href="https://github.com/sychr12/Fest-test-Web">🔗 Ver Repositório</a>
+    </td>
+    <td align="center" width="33%">
+      <b>Intranet-SemBanco</b><br/>
+      Sistema Web<br/><br/>
+      <a href="https://github.com/sychr12/Intranet-SemBanco">🔗 Ver Repositório</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>Gerenciamento de Veículo</b><br/>
+      HTML / Web<br/><br/>
+      <a href="https://github.com/sychr12/Gerenciamento-de-Veiculo">🔗 Ver Repositório</a>
+    </td>
+    <td align="center">
+      <b>Gerenciador Docker</b><br/>
+      TypeScript<br/><br/>
+      <a href="https://github.com/sychr12/Gerenciador_docker">🔗 Ver Repositório</a>
+    </td>
+    <td align="center">
+      <b>Gestão de Dívidas</b><br/>
+      Spring Boot + React<br/><br/>
+      <a href="https://github.com/sychr12/gestao-dividas-Spring-boot-e-react-">🔗 Ver Repositório</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
