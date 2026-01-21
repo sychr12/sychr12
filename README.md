@@ -19,6 +19,14 @@ Estou em constante aprendizado, focado em evoluir tecnicamente e crescer profiss
 
 ---
 
+## 🌐 Portfólio
+
+🚀 Confira meu portfólio com meus principais projetos, tecnologias e experiências:
+
+👉 **https://sychr12.github.io**
+
+---
+
 ##  Estatísticas do GitHub
 
 <p align="center">
