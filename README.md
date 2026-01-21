@@ -21,41 +21,57 @@ Estou em constante aprendizado, focado em evoluir tecnicamente e crescer profiss
 
 ## 💼 Projetos em Destaque
 
-### 🚜 AgroHub  
-Aplicação Web voltada ao setor agrícola  
-🔗 https://github.com/sychr12/Agrohub  
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      🚜<br>
+      <b>AgroHub</b><br>
+      <sub>Aplicação Web – Agronegócio</sub><br><br>
+      <a href="https://github.com/sychr12/Agrohub">🔗 Repositório</a>
+    </td>
+    
 
----
+  <tr>
+    <td align="center" width="33%">
+      🚜<br>
+      <b>AgroHub</b><br>
+      <sub>Aplicação Web – Agronegócio</sub><br><br>
+      <a href="https://github.com/sychr12/Agrohub">🔗 Repositório</a>
+    </td>
 
-### 🎨 Fest Test Web  
-Projeto Front-end para testes e experimentação visual  
-🔗 https://github.com/sychr12/Fest-test-Web  
+  <tr>
+    <td align="center" width="33%">
+      🚜<br>
+      <b>AgroHub</b><br>
+      <sub>Aplicação Web – Agronegócio</sub><br><br>
+      <a href="https://github.com/sychr12/Agrohub">🔗 Repositório</a>
+    </td>
 
----
+  <tr>
+    <td align="center">
+      🚗<br>
+      <b>Gerenciamento de Veículos</b><br>
+      <sub>Aplicação Web em HTML</sub><br><br>
+      <a href="https://github.com/sychr12/Gerenciamento-de-Veiculo">🔗 Repositório</a>
+    </td>
 
-### 🏢 Intranet Sem Banco  
-Sistema Web sem persistência em banco de dados  
-🔗 https://github.com/sychr12/Intranet-SemBanco  
+  <tr>
+    <td align="center" width="33%">
+      🚜<br>
+      <b>AgroHub</b><br>
+      <sub>Aplicação Web – Agronegócio</sub><br><br>
+      <a href="https://github.com/sychr12/Agrohub">🔗 Repositório</a>
+    </td>
 
----
-
-### 🚗 Gerenciamento de Veículos  
-Aplicação Web desenvolvida em HTML  
-🔗 https://github.com/sychr12/Gerenciamento-de-Veiculo  
-
----
-
-### 🐳 Gerenciador Docker  
-Ferramenta para gerenciamento de containers Docker  
-🛠️ TypeScript  
-🔗 https://github.com/sychr12/Gerenciador_docker  
-
----
-
-### 💰 Gestão de Dívidas  
-Sistema completo para controle financeiro  
-🛠️ Spring Boot + React  
-🔗 https://github.com/sychr12/gestao-dividas-Spring-boot-e-react-
+  <tr>
+    <td align="center" width="33%">
+      🚜<br>
+      <b>AgroHub</b><br>
+      <sub>Aplicação Web – Agronegócio</sub><br><br>
+      <a href="https://github.com/sychr12/Agrohub">🔗 Repositório</a>
+    </td>
+  </tr>
+</table>
 
 
 ##  Estatísticas do GitHub
