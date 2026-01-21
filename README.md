@@ -5,21 +5,21 @@
 <h1 align="center">Luiz Felipe da Silva e Silva</h1>
 
 <h3 align="center">
-🎓 Engenharia de Software &nbsp;•&nbsp; 💻 Full Stack Developer &nbsp;•&nbsp; ☕ Java
+ Engenharia de Software &nbsp;•&nbsp;  Full Stack Developer &nbsp;•&nbsp;  Java
 </h3>
 
 ---
 
-## 😶‍🌫️ Sobre Mim
+##  Sobre Mim
 
 Olá! Me chamo **Luiz Felipe**, sou estudante de **Engenharia de Software** e desenvolvedor **Full Stack**.  
 Tenho grande interesse em desenvolvimento **front-end e back-end**, sempre buscando criar soluções eficientes, bem estruturadas e fáceis de usar.
 
-📚 Estou em constante aprendizado, focado em evoluir tecnicamente e crescer profissionalmente, sempre aberto a novos desafios e tecnologias.
+Estou em constante aprendizado, focado em evoluir tecnicamente e crescer profissionalmente, sempre aberto a novos desafios e tecnologias.
 
 ---
 
-## 📊 Estatísticas do GitHub
+##  Estatísticas do GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sychr12&show_icons=true&count_private=true&theme=radical" height="160"/>
@@ -51,7 +51,7 @@ Tenho grande interesse em desenvolvimento **front-end e back-end**, sempre busca
 
 ---
 
-### 🎨 Front-end
+###  Front-end
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48"/>
   &nbsp;&nbsp;
@@ -64,7 +64,7 @@ Tenho grande interesse em desenvolvimento **front-end e back-end**, sempre busca
 
 ---
 
-### ⚙️ Back-end & Frameworks
+###  Back-end & Frameworks
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48"/>
   &nbsp;&nbsp;
@@ -73,7 +73,7 @@ Tenho grande interesse em desenvolvimento **front-end e back-end**, sempre busca
 
 ---
 
-### 🗄️ Bancos de Dados
+###  Bancos de Dados
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48"/>
   &nbsp;&nbsp;
@@ -84,7 +84,7 @@ Tenho grande interesse em desenvolvimento **front-end e back-end**, sempre busca
 
 ---
 
-### 🛠️ DevOps & Ferramentas
+###  DevOps & Ferramentas
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48"/>
   &nbsp;&nbsp;
