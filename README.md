@@ -34,7 +34,7 @@ Estou em constante aprendizado, focado em evoluir tecnicamente e crescer profiss
 
 ## 💪 Habilidades
 
-### 🧠 Linguagens
+###  Linguagens
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48"/>
   &nbsp;&nbsp;
