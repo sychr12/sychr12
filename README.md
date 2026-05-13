@@ -33,9 +33,8 @@ Estou em constante aprendizado, focado em evoluir tecnicamente e crescer profiss
 
 ---
 
-## 💪 Habilidades
 
-### 👨‍💻 Linguagens
+### Linguagens
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java" height="50">
@@ -48,7 +47,7 @@ Estou em constante aprendizado, focado em evoluir tecnicamente e crescer profiss
 
 ---
 
-### 🎨 Front-end
+### Front-end
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html" height="50">
@@ -60,7 +59,7 @@ Estou em constante aprendizado, focado em evoluir tecnicamente e crescer profiss
 
 ---
 
-### ⚙️ Back-end
+### Back-end
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=spring" height="50">
@@ -71,7 +70,7 @@ Estou em constante aprendizado, focado em evoluir tecnicamente e crescer profiss
 
 ---
 
-### 🗄️ Bancos de Dados
+### Bancos de Dados
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres" height="50">
@@ -82,7 +81,7 @@ Estou em constante aprendizado, focado em evoluir tecnicamente e crescer profiss
 
 ---
 
-### 🛠️ DevOps & Ferramentas
+### DevOps & Ferramentas
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker" height="50">
@@ -95,12 +94,7 @@ Estou em constante aprendizado, focado em evoluir tecnicamente e crescer profiss
 
 ---
 
-## 🎧 Música do Momento
-[![Spotify](https://img.shields.io/badge/Spotify-Listen-green?logo=spotify&style=flat)](https://open.spotify.com/track/0llzgiUXaGeoI4uN0rl8sn)
-
----
-
-## 💼 Conecte-se Comigo
+## Conecte-se Comigo
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-felipe-silva-490094260)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/seu-usuario)
@@ -109,7 +103,7 @@ Estou em constante aprendizado, focado em evoluir tecnicamente e crescer profiss
 
 ---
 
-## ⭐ Perfis que Recomendo
+## Perfis que Recomendo
 
 [![GitHub](https://img.shields.io/badge/GitHub-VitorRamires-181717?logo=github&logoColor=white)](https://github.com/VitorRamires468)
 [![GitHub](https://img.shields.io/badge/GitHub-Alvesvnc-181717?logo=github&logoColor=white)](https://github.com/Alvesvnc)
