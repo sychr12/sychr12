@@ -35,68 +35,62 @@ Estou em constante aprendizado, focado em evoluir tecnicamente e crescer profiss
 
 ## 💪 Habilidades
 
-###  Linguagens
+### 👨‍💻 Linguagens
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48"/>
+  <img src="https://skillicons.dev/icons?i=java" height="50">
+  <img src="https://skillicons.dev/icons?i=js" height="50">
+  <img src="https://skillicons.dev/icons?i=python" height="50">
+  <img src="https://skillicons.dev/icons?i=c" height="50">
+  <img src="https://skillicons.dev/icons?i=cpp" height="50">
+  <img src="https://skillicons.dev/icons?i=php" height="50">
 </p>
 
 ---
 
-###  Front-end
+### 🎨 Front-end
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48"/>
+  <img src="https://skillicons.dev/icons?i=html" height="50">
+  <img src="https://skillicons.dev/icons?i=css" height="50">
+  <img src="https://skillicons.dev/icons?i=react" height="50">
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50">
+  <img src="https://skillicons.dev/icons?i=tailwind" height="50">
 </p>
 
 ---
 
-###  Back-end & Frameworks
+### ⚙️ Back-end
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="48"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48"/>
-</p>
-
-
----
-
-###  Bancos de Dados
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48"/>
+  <img src="https://skillicons.dev/icons?i=spring" height="50">
+  <img src="https://skillicons.dev/icons?i=flask" height="50">
+  <img src="https://skillicons.dev/icons?i=nextjs" height="50">
+  <img src="https://skillicons.dev/icons?i=express" height="50">
 </p>
 
 ---
 
-###  DevOps & Ferramentas
+### 🗄️ Bancos de Dados
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="48"/>
+  <img src="https://skillicons.dev/icons?i=postgres" height="50">
+  <img src="https://skillicons.dev/icons?i=mysql" height="50">
+  <img src="https://skillicons.dev/icons?i=mongodb" height="50">
+  <img src="https://skillicons.dev/icons?i=sqlite" height="50">
+</p>
+
+---
+
+### 🛠️ DevOps & Ferramentas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker" height="50">
+  <img src="https://skillicons.dev/icons?i=git" height="50">
+  <img src="https://skillicons.dev/icons?i=github" height="50">
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="50">
+  <img src="https://skillicons.dev/icons?i=vscode" height="50">
+  <img src="https://skillicons.dev/icons?i=linux" height="50">
 </p>
 
 ---
