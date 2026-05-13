@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=Olá!+👋;Sou+Luiz+Felipe;Full+Stack+Developer+🚀;Engenharia+de+Software+💻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=Olá!+;Sou+Luiz+Felipe;Full+Stack+Developer+;Engenharia+de+Software+)](https://git.io/typing-svg)
 
 ---
 
@@ -18,14 +18,6 @@ Tenho grande interesse em desenvolvimento **front-end e back-end**, sempre busca
 Estou em constante aprendizado, focado em evoluir tecnicamente e crescer profissionalmente, sempre aberto a novos desafios e tecnologias.
 
 ---
-
-
-##  Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sychr12&show_icons=true&count_private=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sychr12&layout=compact&langs_count=6&theme=radical" height="160"/>
-</p>
 
 <p align="right">
   <img src="https://i.pinimg.com/originals/cf/43/d7/cf43d742e44ed7852c5ff1bf59396259.gif" height="140"/>
@@ -77,6 +69,7 @@ Estou em constante aprendizado, focado em evoluir tecnicamente e crescer profiss
   <img src="https://skillicons.dev/icons?i=mysql" height="50">
   <img src="https://skillicons.dev/icons?i=mongodb" height="50">
   <img src="https://skillicons.dev/icons?i=sqlite" height="50">
+  <img src="https://raw.githubusercontent.com/dbeaver/dbeaver/devel/product/community/icons/dbeaver.png" alt="DBeaver" height="50">
 </p>
 
 ---
@@ -90,6 +83,7 @@ Estou em constante aprendizado, focado em evoluir tecnicamente e crescer profiss
   <img src="https://skillicons.dev/icons?i=androidstudio" height="50">
   <img src="https://skillicons.dev/icons?i=vscode" height="50">
   <img src="https://skillicons.dev/icons?i=linux" height="50">
+  <img src="https://skillicons.dev/icons?i=postman" height="50">
 </p>
 
 ---
@@ -110,5 +104,4 @@ Estou em constante aprendizado, focado em evoluir tecnicamente e crescer profiss
 
 ---
 
-<img src="https://raw.githubusercontent.com/sychr12/sychr12/output/snake.svg" alt="Snake animation" />
 
